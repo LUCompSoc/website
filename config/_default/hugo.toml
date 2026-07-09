@@ -1,0 +1,4 @@
+baseURL = 'https://compsoc.io/'
+locale = 'en-gb'
+title = 'LUCompSoc'
+theme = 'blowfish'
