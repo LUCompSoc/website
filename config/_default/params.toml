@@ -1,2 +1,10 @@
-[header]
-  layout = "basic" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
+logo = "img/compsoc-logo-old.webp"
+colorScheme = "fire"
+
+[article]
+  showDate = false
+  showAuthor = false
+
+[author]
+  name = "LUCompSoc"
+  image = "img/compsoc-logo-old.webp"
