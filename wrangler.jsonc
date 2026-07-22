@@ -2,7 +2,7 @@
     "name": "lucompsoc-website",
     "compatibility_date": "2026-07-22",
     "build": {
-        "command": "chmox a+x build.sh && ./build.sh"
+        "command": "chmod a+x build.sh && ./build.sh"
     },
     "assets": {
         "directory": "./public",
