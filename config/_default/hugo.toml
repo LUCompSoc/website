@@ -12,3 +12,7 @@ title = 'LUCompSoc'
     name = 'Constitution'
     pageRef = '/constitution'
     weight = 20
+
+[caches]
+  [caches.images]
+    dir = ":cacheDir/images"
