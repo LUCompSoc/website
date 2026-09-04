@@ -1,4 +1,4 @@
-logo = "img/compsoc-logo-old.webp"
+logo = "img/compsoc-logo.png"
 colorScheme = "fire"
 
 [article]
@@ -7,4 +7,4 @@ colorScheme = "fire"
 
 [author]
   name = "LUCompSoc"
-  image = "img/compsoc-logo-old.webp"
+  image = "img/compsoc-logo.png"
