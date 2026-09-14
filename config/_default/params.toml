@@ -1,6 +1,17 @@
 logo = "img/compsoc-logo.png"
 colorScheme = "fire"
 
+enableSearch = true
+enableCodeCopy = true
+
+[header]
+  layout = "floating" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur, floating
+  mobileMenuStyle = "dropdown" # valid options: fullscreen, dropdown
+
+[homepage]
+  layout = "landing" # valid options: page, profile, hero, card, background, landing, custom
+  # layoutSwitcher = true # opt-in interactive preview of the built-in layouts
+
 [article]
   showDate = false
   showAuthor = false

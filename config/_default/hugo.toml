@@ -16,3 +16,8 @@ title = 'LUCompSoc'
 [caches]
   [caches.images]
     dir = ":cacheDir/images"
+
+[sponsors]
+  title = 'Sponsors!'
+  [tpp]
+    username = 'TPP'
