@@ -1,4 +1,4 @@
 # Development specific configuration
 
 [homepage]
-  layoutSwitcher = true
+  # layoutSwitcher = true

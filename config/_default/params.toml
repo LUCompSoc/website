@@ -1,4 +1,4 @@
-logo = "img/compsoc-logo.png"
+logo = "img/compsoc-logo-sticker.png"
 colorScheme = "fire"
 
 enableSearch = true
@@ -10,6 +10,7 @@ enableCodeCopy = true
 
 [homepage]
   layout = "landing" # valid options: page, profile, hero, card, background, landing, custom
+  homepageImage = "img/background.jpg"
 
 [article]
   showDate = false
@@ -17,4 +18,4 @@ enableCodeCopy = true
 
 [author]
   name = "LUCompSoc"
-  image = "img/compsoc-logo.png"
+  image = "img/compsoc-logo-normal.png"

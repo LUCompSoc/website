@@ -3,21 +3,6 @@ locale = 'en'
 theme = 'blowfish'
 title = 'LUCompSoc'
 
-[menus]
-  [[menus.main]]
-    name = 'About'
-    pageRef = '/about'
-    weight = 10
-  [[menus.main]]
-    name = 'Constitution'
-    pageRef = '/constitution'
-    weight = 20
-
 [caches]
   [caches.images]
     dir = ":cacheDir/images"
-
-[sponsors]
-  title = 'Sponsors!'
-  [tpp]
-    username = 'TPP'

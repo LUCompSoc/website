@@ -1,6 +1,6 @@
 ---
 title: 'Constitution'
-draft: true
+draft: false
 ---
 
 Yup, this is a constitution :D
