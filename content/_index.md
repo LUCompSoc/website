@@ -15,11 +15,10 @@ heroButtons:
 ---
 
 ## About Us
-Our purpose is to promote **computing and technology**, creating a safe space where students can connect with each other. We run events to improve students' abilities and provide oppurtunities to enhance their Uni experience!
+We are a student run community with the aim of promoting **computing and technology**, creating a safe space where other students can connect with each other. We run events to improve students' abilities and provide oppurtunities to enhance their Uni experience!
 
-Our weekly **educational events** cover a wide range of topics, suitable for everyone, from beginner to expert. We also run frequent **social events**, ranging from gaming to movies to pubbing.
+Our weekly **educational events** cover a wide range of topics, suitable for everyone, from beginner to expert. We also run frequent **social events**, ranging from gaming to movies to pubbing. This academic year, we are planning a **Hackathon**, as well as several **Game Jams**!
 
-This academic year, we are planning a **Hackathon**, as well as several **Game Jams**!\
 Read more about our events [here](/events).
 
 We are associated with [Lancaser University SCC](https://www.lancaster.ac.uk/scc/) & [LUSU](https://lancastersu.co.uk/).

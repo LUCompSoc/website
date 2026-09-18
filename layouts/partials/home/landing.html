@@ -1,3 +1,8 @@
+<!--
+  Adapted from Blowfish's landing theme:
+  - 
+-->
+
 <article class="relative isolate overflow-hidden">
   {{ $heroImage := .Params.heroImage | default site.Params.homepage.homepageImage }}
   {{ $heroImg := "" }}
@@ -30,8 +35,9 @@
       data-hero-id="landing-hero-background"
       data-fade-distance="500"></script>
   {{ end }}
+  
   <section class="mx-auto max-w-7xl px-4 pb-16 pt-12 sm:px-6 sm:pb-24 sm:pt-20 lg:px-8">
-    <div class="mx-auto max-w-4xl text-center">
+    <div class="mx-auto max-w-4xl text-center"> <!-- Add class "min-h-screen" to push content to below screen -->
       {{ with .Params.heroCaption | default .Site.Params.Author.name }}
         <p class="landing-rise mb-5 text-sm font-semibold uppercase tracking-[0.25em] text-primary-600 dark:text-primary-400">
           {{ . | markdownify }}
@@ -54,6 +60,9 @@
           {{ end }}
         </div>
       {{ end }}
+    </div>
+
+    <div class="mx-auto max-w-4xl text-center">
       <section class="landing-rise landing-rise-4 prose prose-lg mx-auto mt-10 max-w-3xl text-left dark:prose-invert sm:text-center">
         {{ .Content }}
       </section>
