@@ -1,6 +1,11 @@
 [[main]]
-  name = 'About'
-  href = '/about'
+  name = 'Events'
+  pageRef = '/events'
+  weight = 5
+
+[[main]]
+  name = 'Team'
+  pageRef = '/team'
   weight = 10
 
 [[main]]

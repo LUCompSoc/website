@@ -17,7 +17,7 @@ heroButtons:
 ## About Us
 We are a student run community with the aim of promoting **computing and technology**, creating a safe space where other students can connect with each other. We run events to improve students' abilities and provide oppurtunities to enhance their Uni experience!
 
-Our weekly **educational events** cover a wide range of topics, suitable for everyone, from beginner to expert. We also run frequent **social events**, ranging from gaming to movies to pubbing. This academic year, we are planning a **Hackathon**, as well as several **Game Jams**!
+Our weekly **educational sessions** cover a wide range of topics, suitable for everyone, from beginner to expert. We also run frequent **social events**, ranging from gaming to movies to pubbing. This academic year, we are planning a **Hackathon**, as well as several **Game Jams**!
 
 Read more about our events [here](/events).
 
@@ -29,7 +29,7 @@ We are associated with [Lancaser University SCC](https://www.lancaster.ac.uk/scc
 The executive committee (exec for short) is responsible for running the society. We plan and co-ordinate events, acquire funding for society activities, and generally make the society function.
 
 The exec is voted for by the members at the yearly AGM.\
-More info about each role can be found in the [constitution](/constitution).
+More info about each role can be found in the constitution found [here](/documents).
 
 {{< button href="/team" >}}
 Meet the Team!

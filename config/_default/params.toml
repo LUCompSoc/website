@@ -15,6 +15,8 @@ enableCodeCopy = true
 [article]
   showDate = false
   showAuthor = false
+  showWordCount = false
+  showReadingTime = false
 
 [author]
   name = "LUCompSoc"

@@ -1,8 +1,8 @@
-+++
-date = '2026-07-08T15:45:25+01:00'
-draft = true
-title = 'LanHack 2023'
-+++
+---
+title: "LanHack 2023"
+date: "2026-07-08T15:45:25+01:00"
+draft: true
+---
 
 This event happened.
 
