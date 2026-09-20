@@ -35,3 +35,10 @@
   pre = "github"
   weight = 120
   params = {"isIcon" = true}
+
+[[main]]
+  identifier = "email"
+  url = "mailto:info@compsoc.io"
+  pre = "envelope"
+  weight = 130
+  params = {"isIcon" = true}

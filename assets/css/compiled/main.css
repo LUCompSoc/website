@@ -11,6 +11,7 @@
       "Courier New", monospace;
     --spacing: 0.25rem;
     --container-2xs: 18rem;
+    --container-sm: 24rem;
     --container-md: 28rem;
     --container-xl: 36rem;
     --container-2xl: 42rem;
@@ -3186,6 +3187,11 @@
       transition-property: none;
     }
   }
+  @media (width >= min(26rem, sm)) {
+    .min-\[min\(26rem\,sm\)\]\:w-\[22rem\] {
+      width: 22rem;
+    }
+  }
   @media (width >= 640px) {
     .sm\:top-5 {
       top: calc(var(--spacing) * 5);
@@ -3384,6 +3390,19 @@
   @media (width >= 1536px) {
     .\32 xl\:grid-cols-5 {
       grid-template-columns: repeat(5, minmax(0, 1fr));
+    }
+  }
+  @media (width >= 26rem) {
+    .min-\[26rem\]\:w-\[22rem\] {
+      width: 22rem;
+    }
+  }
+  @media (width >= 28rem) {
+    .min-\[28rem\]\:w-\[22rem\] {
+      width: 22rem;
+    }
+    .min-\[28rem\]\:w-\[24rem\] {
+      width: 24rem;
     }
   }
   .ltr\:-ml-12:where(:dir(ltr), [dir="ltr"], [dir="ltr"] *) {
