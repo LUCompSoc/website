@@ -4,6 +4,6 @@
   weight = 10
 
 [[main]]
-  name = 'Constitution'
-  pageRef = '/constitution'
+  name = 'Documents'
+  pageRef = '/documents'
   weight = 20
