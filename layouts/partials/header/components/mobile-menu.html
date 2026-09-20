@@ -152,24 +152,22 @@
 {{ end }}
 
 {{ define "mobile-main-menu-icons" }}
-  <div class="px-2">
-    <div class="flex items-left gap-4 flex-wrap">
-      {{ range .Site.Menus.main }}
-        {{if and .Params.isIcon .Pre}}
-          <a
-            href="{{ .URL }}"
-            {{ with or .Name .Pre }}aria-label="{{ . }}"{{ end }}
-            {{ if or (strings.HasPrefix .URL "http:" ) (strings.HasPrefix .URL "https:" ) }}
-              target="_blank"
-            {{ end }}
-            class="flex items-center gap-4 group bf-icon-color-hover text-neutral-700 dark:text-neutral-200">
-            <span class="flex items-center justify-center h-8 w-8 text-2xl">
-              {{ partial "icon.html" .Pre }}
-            </span>
-          </a>
-        {{ end }}
+  <div class="px-2 flex flex-wrap items-left gap-4">
+    {{ range .Site.Menus.main }}
+      {{if and .Params.isIcon .Pre}}
+        <a
+          href="{{ .URL }}"
+          {{ with or .Name .Pre }}aria-label="{{ . }}"{{ end }}
+          {{ if or (strings.HasPrefix .URL "http:" ) (strings.HasPrefix .URL "https:" ) }}
+            target="_blank"
+          {{ end }}
+          class="flex items-center gap-4 group bf-icon-color-hover text-neutral-700 dark:text-neutral-200">
+          <span class="flex items-center justify-center h-8 w-8 text-2xl">
+            {{ partial "icon.html" .Pre }}
+          </span>
+        </a>
       {{ end }}
-    </div>
+    {{ end }}
   </div>
 {{ end }}
 
