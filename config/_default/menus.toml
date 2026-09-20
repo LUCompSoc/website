@@ -1,3 +1,4 @@
+# -- Header Navigation -- #
 [[main]]
   name = 'Events'
   pageRef = '/events'
@@ -12,3 +13,25 @@
   name = 'Documents'
   pageRef = '/documents'
   weight = 20
+
+# -- Header Socials -- #
+[[main]]
+  identifier = "discord"
+  url = "https://discord.gg/compsoc"
+  pre = "discord"
+  weight = 100
+  params = {"isIcon" = true}
+
+[[main]]
+  identifier = "instagram"
+  url = "https://www.instagram.com/lucompsoc/"
+  pre = "instagram"
+  weight = 110
+  params = {"isIcon" = true}
+
+[[main]]
+  identifier = "github"
+  url = "https://github.com/LUCompSoc"
+  pre = "github"
+  weight = 120
+  params = {"isIcon" = true}
