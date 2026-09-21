@@ -9,7 +9,6 @@ This page lists the current exec, as well as some of the past ones.
 
 ## 2026
 - Tyler Beard (President)
-- Callen Ward (Vice-President)
 - Laurence Richardson (Secretary)
 - Mackenzie Parker (Treasurer)
 - Ben Foster (Education Officer)
@@ -18,4 +17,4 @@ This page lists the current exec, as well as some of the past ones.
 - Dylan Beard (Technical Officer)
 - Nathan Li (Wellbeing Officer)
 - Jason Martlew (Security Officer)
-- Sakina (Audio Visual Officer)
+- Sakina Khan (Audio Visual Officer)
