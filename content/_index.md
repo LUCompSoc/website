@@ -37,17 +37,21 @@ Meet the Team!
 
 ---
 
-## Partner Societies
+<!-- ## Partner Societies
 We work with these cool societies, inside and outside of Lancaster University:
 
 *(carousel?)* LUHack
 
----
+--- -->
 
 ## Sponsors
 Our sponsors help fund the society's activities, check them out below!
 
-*(carousel?)* TPP
+{{< sponsor
+  name="TPP"
+  img="img/tpp/tpp_logo_raw.png"
+  href="https://tpp-uk.com/"
+>}}
 
 ---
 

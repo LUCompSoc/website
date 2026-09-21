@@ -1,0 +1,11 @@
+{{ $name := .Get "name" }}
+{{ $img := .Get "img" }}
+{{ $href := .Get "href" }}
+
+{{ $resource := resources.Get ($img) }}
+
+<div class="flex x-fill justify-center">
+    <a href="{{ $href }}" class="flex justify-center w-32 p-1 bg-neutral hover:bg-neutral-200 rounded-xl hover:rounded-xl">
+        <img src="{{ $resource.RelPermalink }}" class="nozoom" />
+    </a>
+</div>
