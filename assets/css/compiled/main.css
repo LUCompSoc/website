@@ -1381,6 +1381,9 @@
   .h-auto {
     height: auto;
   }
+  .h-fit {
+    height: fit-content;
+  }
   .h-full {
     height: 100%;
   }
@@ -1446,9 +1449,6 @@
   }
   .w-24 {
     width: calc(var(--spacing) * 24);
-  }
-  .w-32 {
-    width: calc(var(--spacing) * 32);
   }
   .w-36 {
     width: calc(var(--spacing) * 36);
@@ -2990,9 +2990,6 @@
     .hover\:-translate-y-1:hover {
       --tw-translate-y: calc(var(--spacing) * -1);
       translate: var(--tw-translate-x) var(--tw-translate-y);
-    }
-    .hover\:rounded-xl:hover {
-      border-radius: var(--radius-xl);
     }
     .hover\:border-primary-300:hover {
       border-color: rgba(var(--color-primary-300), 1);
