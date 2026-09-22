@@ -5,7 +5,11 @@
 {{ $resource := resources.Get ($img) }}
 
 <div class="w-full h-fit flex flex-row justify-center gap-3 flex-wrap">
-    <a href="{{ $href }}" class="flex h-24 items-center">
-        <img src="{{ $resource.RelPermalink }}" class="nozoom h-24 w-auto bg-white p-2 rounded-xl" />
+    <a href="{{ $href }}" class="h-24 flex items-center p-1 rounded-2xl hover:rounded-xl
+                                 bg-linear-[135deg,#ff9239cc,#e74040cc_50%,#9237e1cc]">
+        <img
+            src="{{ $resource.RelPermalink }}"
+            class="nozoom h-full w-auto p-2 rounded-xl bg-white"
+        />
     </a>
 </div>
