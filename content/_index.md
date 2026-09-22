@@ -26,7 +26,8 @@ We are associated with [Lancaser University SCC](https://www.lancaster.ac.uk/scc
 ---
 
 ## The Team
-The executive committee (exec for short) is responsible for running the society. We plan and co-ordinate events, acquire funding for society activities, and generally make the society function.
+The society is run by a team of students called the executive committee (exec for short).
+We plan and co-ordinate events, acquire funding for society activities, and generally make the society function.
 
 The exec is voted for by the members at the yearly AGM.\
 More info about each role can be found in the constitution found [here](/documents).
@@ -37,23 +38,23 @@ Meet the Team!
 
 ---
 
-<!-- ## Partner Societies
-We work with these cool societies, inside and outside of Lancaster University:
-
-*(carousel?)* LUHack
-
---- -->
-
 ## Sponsors
 Our sponsors help fund the society's activities, check them out below!
 
 {{< sponsor
   name="TPP"
   img="img/tpp/tpp_logo_raw.png"
-  href="https://tpp-uk.com/"
+  href="https://tpp-careers.com/"
 >}}
 
 ---
+
+<!-- ## Partner Societies
+We work with these cool societies, inside and outside of Lancaster University:
+
+*(carousel?)* LUHack
+
+--- -->
 
 ## FAQ
 {{< details summary="Do I need a membership to attend events?" >}}
