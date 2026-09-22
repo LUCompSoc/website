@@ -13,7 +13,7 @@ This page lists the current exec, as well as some of the past ones.
 - Mackenzie Parker (Treasurer)
 - Ben Foster (Education Officer)
 - William Morris (Events Officer)
-- Hugo Baxter (Publicity Officer)
+- Alice Baxter (Publicity Officer)
 - Dylan Beard (Technical Officer)
 - Nathan Li (Wellbeing Officer)
 - Jason Martlew (Security Officer)

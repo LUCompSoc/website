@@ -1,5 +1,5 @@
 ---
-title: "The Computing Society of Lancaster University"
+title: "The Computer Science Society of Lancaster University"
 description: "A great community for anything related to computing and technology."
 heroLead: "A place to meet others interested in computing and to improve your skills, all whilst having fun!"
 heroButtons:

@@ -1,4 +1,4 @@
-# -- Header Navigation -- #
+# -- Header - Page Navigation -- #
 [[main]]
   name = 'Events'
   pageRef = '/events'
@@ -14,7 +14,7 @@
   pageRef = '/documents'
   weight = 20
 
-# -- Header Socials -- #
+# -- Header - Socials Links -- #
 [[main]]
   identifier = "discord"
   url = "https://discord.gg/compsoc"

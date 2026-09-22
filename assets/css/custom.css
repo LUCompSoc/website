@@ -1,0 +1,24 @@
+
+.scale-on-hover {
+    transition: transform 0.2s;
+}
+
+.scale-on-hover:hover {
+    transform: scale(1.1);
+}
+
+/* Attempt at animating CompSoc gradient:
+@keyframes sponsorgradient {
+    0% {
+        background-position: 0% 0%;
+    }
+    100% {
+        background-position: 100% 100%;
+    }
+}
+
+On target element:
+    animation: sponsorgradient 5s linear 1s infinite running;
+    background-size: 200% 200%;
+
+*/
