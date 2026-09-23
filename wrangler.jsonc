@@ -1,5 +1,5 @@
 {
-    "name": "lucompsoc-website",
+    "name": "compsoc-website-dev",
     "compatibility_date": "2026-07-22",
     "build": {
         "command": "chmod a+x build.sh && ./build.sh"
