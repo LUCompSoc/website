@@ -1,6 +1,6 @@
 ---
 title: "The Computer Science Society of Lancaster University"
-description: "A great community for anything related to computing and technology."
+description: "A student-led community for anyone interested in computing and technology at Lancaster University."
 heroLead: "A place to meet others interested in computing and to improve your skills, all whilst having fun!"
 heroButtons:
   - label: "Join Us"
