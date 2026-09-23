@@ -1,4 +1,4 @@
-<footer id="site-footer" class="py-10 print:hidden">
+<footer id="site-footer" class="py-10 space-y-1 print:hidden">
   {{/* Footer menu */}}
   {{ if .Site.Params.footer.showMenu | default true }}
     {{ if .Site.Menus.footer }}
@@ -34,14 +34,27 @@
     {{ end }}
   {{ end }}
 
-  <p class="text-sm text-neutral-500 dark:text-neutral-400 pb-2">
-    Associated with 
-    <a href="https://www.lancaster.ac.uk/scc/" class="underline hover:decoration-primary-400 hover:text-primary-500">
-      Lancaster University SCC
-    </a>
-      & 
-    <a href="https://lancastersu.co.uk/" class="underline hover:decoration-primary-400 hover:text-primary-500">
-      LUSU
+  <p class="text-sm text-neutral-500 dark:text-neutral-400">
+    <b>Contact:</b>
+    <a href="mailto:info@compsoc.io" class="hover:underline hover:decoration-primary-400 hover:text-primary-500"
+      >info@compsoc.io</a> |
+    <a href="https://discord.gg/compsoc" class="hover:underline hover:decoration-primary-400 hover:text-primary-500"
+      >Discord</a>
+  </p>
+
+  <p class="text-sm text-neutral-500 dark:text-neutral-400">
+    <b>Associated with:</b>
+    <a href="https://www.lancaster.ac.uk/scc/" class="hover:underline hover:decoration-primary-400 hover:text-primary-500"
+      >School of Computing & Communications</a> |
+    <a href="https://lancastersu.co.uk/" class="hover:underline hover:decoration-primary-400 hover:text-primary-500"
+      >LUSU</a>
+  </p>
+
+  <p class="text-sm text-neutral-500 dark:text-neutral-400">
+    Made with ❤️ by
+    <a href="https://github.com/cottondell">
+      <b class="w-fit text-transparent bg-clip-text bg-linear-to-r from-amber-300 via-orange-300 to-rose-400"
+        >Dylan Beard</b>
     </a>
   </p>
 
@@ -58,16 +71,6 @@
         {{- end }}
       </p>
     {{ end }}
-
-    {{/* Sponsors */}}
-    {{/* <a href="https://tpp-uk.com/" class="flex flex-row justify-center items-center">
-      <p class="text-sm text-neutral-500 dark:text-neutral-400">
-        Sponsored by
-      </p>
-      <img
-        src="https://www.compsoc.io/_vercel/image?url=%2Fimg%2Flogo%2FTPP.png&w=1536&q=100"
-        class="logo max-h-20 max-w-20 object-scale-down object-left nozoom">
-    </a> */}}
 
     {{/* Theme attribution */}}
     {{ if .Site.Params.footer.showThemeAttribution | default true }}

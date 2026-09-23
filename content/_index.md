@@ -57,6 +57,10 @@ We work with these cool societies, inside and outside of Lancaster University:
 --- -->
 
 ## FAQ
-{{< details summary="Do I need a membership to attend events?" >}}
+{{< Lead >}}
+*Coming soon!*
+{{< /Lead >}}
+
+<!-- {{< details summary="Do I need a membership to attend events?" >}}
 For most events, you do not need a membership to attend them. However, the small membership cost helps us pay for society activities and may be required for specific parts of events (such as keeping a DIY thing you worked on in an educational event).
-{{< /details >}}
+{{< /details >}} -->
