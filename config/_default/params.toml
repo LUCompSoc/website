@@ -1,7 +1,7 @@
 logo = "img/compsoc-logo-sticker.png"
 colorScheme = "fire"
 
-enableSearch = true
+enableSearch = false
 enableCodeCopy = true
 
 [header]
@@ -17,6 +17,7 @@ enableCodeCopy = true
   showAuthor = false
   showWordCount = false
   showReadingTime = false
+  showPagination = false
 
 [author]
   name = "LUCompSoc"

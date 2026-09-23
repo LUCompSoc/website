@@ -3,8 +3,9 @@ title: "Events"
 description: "Past & future events"
 cascade:
     showDate: true
-    showReadingTime: true
     showWordCount: true
+    showReadingTime: true
+    showPagination: true
 ---
 
 Types of events we run:
