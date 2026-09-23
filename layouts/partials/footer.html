@@ -34,6 +34,7 @@
     {{ end }}
   {{ end }}
 
+  {{/*  Contact info  */}}
   <p class="text-sm text-neutral-500 dark:text-neutral-400">
     <b>Contact:</b>
     <a href="mailto:info@compsoc.io" class="hover:underline hover:decoration-primary-400 hover:text-primary-500"
@@ -42,6 +43,7 @@
       >Discord</a>
   </p>
 
+  {{/*  Associations  */}}
   <p class="text-sm text-neutral-500 dark:text-neutral-400">
     <b>Associated with:</b>
     <a href="https://www.lancaster.ac.uk/scc/" class="hover:underline hover:decoration-primary-400 hover:text-primary-500"
@@ -50,14 +52,16 @@
       >LUSU</a>
   </p>
 
-  <p class="text-sm text-neutral-500 dark:text-neutral-400">
+  {{/*  Site attribution  */}}
+  <p class="text-sm text-neutral-500 dark:text-neutral-400 pt-4">
     Made with ❤️ by
-    <a href="https://github.com/cottondell">
-      <b class="w-fit text-transparent bg-clip-text bg-linear-to-r from-amber-300 via-orange-300 to-rose-400"
+    <a href="https://github.com/cottondell" class="hover:underline text-blue-500 dark:text-blue-300">
+      <b class="w-fit text-transparent bg-clip-text bg-linear-to-r from-blue-500 to-blue-700 dark:from-blue-300 dark:to-blue-500"
         >Dylan Beard</b>
     </a>
   </p>
 
+  {{/*  Copyright & theme attribution  */}}
   <div class="flex items-center justify-between">
     {{/* Copyright */}}
     {{ if .Site.Params.footer.showCopyright | default true }}
@@ -85,6 +89,8 @@
       </p>
     {{ end }}
   </div>
+
+  {{/*  Disable image zoom depending on config  */}}
   {{ if not .Site.Params.disableImageZoom | default true }}
     <script>
       mediumZoom(document.querySelectorAll("img:not(.nozoom)"), {
@@ -94,6 +100,7 @@
       });
     </script>
   {{ end }}
+
   {{/* Extend footer - eg. for extra scripts, etc. */}}
   {{ if templates.Exists "partials/extend-footer.html" }}
     {{ partialCached "extend-footer.html" . }}
