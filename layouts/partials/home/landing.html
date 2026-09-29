@@ -56,7 +56,7 @@
       {{ with .Params.heroButtons }}
         <div class="landing-rise landing-rise-3 mt-9 flex flex-wrap items-center justify-center gap-4">
           {{ range . }}
-            {{ partial "cta-button.html" (dict "url" .url "label" .label "style" .style "github" .github) }}
+            {{ partial "cta-button.html" (dict "url" .url "label" .label "style" .style "github" .github "discord" .discord) }}
           {{ end }}
         </div>
       {{ end }}

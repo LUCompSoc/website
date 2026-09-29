@@ -5,13 +5,12 @@ heroLead: "A place to meet others interested in computing and to improve your sk
 heroButtons:
   - label: "Join Us"
     url: "https://campus.hellorubric.com/?s=15344"
+  - label: "Visit our Discord"
+    url: "https://discord.gg/compsoc"
+    discord: "compsoc"
   - label: "See Past Events"
     url: "/events/"
     style: "outline"
-  - label: "Visit Our GitHub"
-    url: "https://github.com/LUCompSoc"
-    style: "outline"
-    github: "LUCompSoc"
 ---
 
 ## About Us
