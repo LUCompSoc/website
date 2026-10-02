@@ -7,3 +7,4 @@ This README will be updated with info over time, such as instructions to build, 
 ## TODO
 - [ ] Rebuild Tailwind CSS file when building site & ignore it in .gitignore
 - [ ] Add sponsor page with text description of sponsors
+- [ ] Add pictures and more info to the team page

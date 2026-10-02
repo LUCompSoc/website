@@ -1,0 +1,8 @@
+{{ range hugo.Data.execs }}
+    {{ printf "## %s" .year | markdownify }}
+    <ul>
+        {{ range .execs }}
+            <li>{{ .name }} ({{ .role }})</li>
+        {{ end }}
+    </ul>
+{{ end }}

@@ -1,0 +1,64 @@
+[
+    {
+        "year": "2026",
+        "execs": [
+            {
+                "name": "Tyler Beard",
+                "role": "President"
+            },
+            {
+                "name": "Laurence Richardson",
+                "role": "Secretary"
+            },
+            {
+                "name": "Mackenzie Parker",
+                "role": "Treasurer"
+            },
+            {
+                "name": "Ben Foster",
+                "role": "Education Officer"
+            },
+            {
+                "name": "William Morris",
+                "role": "Events Officer"
+            },
+            {
+                "name": "Alice Baxter",
+                "role": "Publicity Officer"
+            },
+            {
+                "name": "Dylan Beard",
+                "role": "Technical Officer"
+            },
+            {
+                "name": "Nathan Li",
+                "role": "Wellbeing Officer"
+            },
+            {
+                "name": "Jason Martlew",
+                "role": "Security Officer"
+            },
+            {
+                "name": "Sakina Khan",
+                "role": "Audio Visual Officer"
+            }
+        ]
+    },
+    {
+        "year": "2025",
+        "execs": [
+            {
+                "name": "Callen",
+                "role": "President"
+            },
+            {
+                "name": "Jason Martlew",
+                "role": "Educational Officer"
+            },
+            {
+                "name": "Max Hearnden",
+                "role": "Technical Officer"
+            }
+        ]
+    }
+]
