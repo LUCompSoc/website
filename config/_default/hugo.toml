@@ -2,6 +2,7 @@ baseURL = 'https://compsoc.io/'
 locale = 'en'
 theme = 'blowfish'
 title = 'LUCompSoc'
+buildFuture = true
 
 [caches]
   [caches.images]
