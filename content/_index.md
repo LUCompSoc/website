@@ -8,7 +8,7 @@ heroButtons:
   - label: "Visit our Discord"
     url: "https://discord.gg/compsoc"
     discord: "compsoc"
-  - label: "See Past Events"
+  - label: "See Events"
     url: "/events/"
     style: "outline"
 ---
