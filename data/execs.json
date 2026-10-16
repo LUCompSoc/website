@@ -13,19 +13,19 @@
                 "name": "Laurence Richardson",
                 "pronouns": "he/him",
                 "role": "Secretary",
-                "photo": "img/execs/laurence-richardson.jpeg"
+                "photo": "img/execs/laurence-richardson.jpg"
             },
             {
                 "name": "Mackenzie Parker",
                 "pronouns": "they/them",
                 "role": "Treasurer",
-                "photo": "img/execs/mackenzie-parker.jpeg"
+                "photo": "img/execs/mackenzie-parker.jpg"
             },
             {
                 "name": "Ben Foster",
                 "pronouns": "he/they",
                 "role": "Education Officer",
-                "photo": "img/execs/ben-foster.jpeg"
+                "photo": "img/execs/ben-foster.jpg"
             },
             {
                 "name": "William Morris",
@@ -37,31 +37,31 @@
                 "name": "Alice Baxter",
                 "pronouns": "she/they",
                 "role": "Publicity Officer",
-                "photo": "img/execs/alice-baxter.jpeg"
+                "photo": "img/execs/alice-baxter.jpg"
             },
             {
                 "name": "Dylan Beard",
                 "pronouns": "he/him",
                 "role": "Technical Officer",
-                "photo": ""
+                "photo": "img/execs/dylan-beard.jpg"
             },
             {
                 "name": "Nathan Li",
                 "pronouns": "he/him",
                 "role": "Wellbeing Officer",
-                "photo": "img/execs/nathan-li.jpeg"
+                "photo": "img/execs/nathan-li.jpg"
             },
             {
                 "name": "Jason Martlew",
                 "pronouns": "he/they",
                 "role": "Security Officer",
-                "photo": "img/execs/jason-martlew.jpeg"
+                "photo": "img/execs/jason-martlew.jpg"
             },
             {
                 "name": "Sakina Khan",
                 "pronouns": "she/her",
                 "role": "Audio Visual Officer",
-                "photo": "img/execs/sakina-khan.jpeg"
+                "photo": "img/execs/sakina-khan.jpg"
             }
         ]
     },
@@ -76,7 +76,7 @@
             {
                 "name": "Jason Martlew",
                 "role": "Educational Officer",
-                "photo": "img/execs/jason-martlew.jpeg"
+                "photo": "img/execs/jason-martlew.jpg"
             },
             {
                 "name": "Max Hearnden",
@@ -131,42 +131,6 @@
             {
                 "name": "Harry Parkinson",
                 "role": "Careers Officer"
-            }
-        ]
-    },
-    {
-        "year": "2023",
-        "execs": [
-            {
-                "name": "",
-                "role": "President"
-            }
-        ]
-    },
-    {
-        "year": "2022",
-        "execs": [
-            {
-                "name": "",
-                "role": "President"
-            }
-        ]
-    },
-    {
-        "year": "2021",
-        "execs": [
-            {
-                "name": "",
-                "role": "President"
-            }
-        ]
-    },
-    {
-        "year": "2020",
-        "execs": [
-            {
-                "name": "",
-                "role": "President"
             }
         ]
     },
