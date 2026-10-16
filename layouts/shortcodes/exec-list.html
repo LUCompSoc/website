@@ -1,6 +1,8 @@
 {{ range hugo.Data.execs }}
-    {{ printf "## %s" .year | markdownify }}
-    <span class="w-full h-auto flex flex-row flex-wrap gap-5">
+    <div class="w-full h-auto flex justify-center">
+        {{ printf "## %s" .year | markdownify }}
+    </div>
+    <span class="w-full h-auto flex flex-row flex-wrap justify-center gap-5">
         {{ range .execs }}
             {{ template "exec-card" . }}
         {{ end }}
