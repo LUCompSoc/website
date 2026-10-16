@@ -4,43 +4,64 @@
         "execs": [
             {
                 "name": "Tyler Beard",
-                "role": "President"
+                "pronouns": "he/him",
+                "role": "President",
+                "photo": "img/execs/tyler-beard.jpg",
+                "face_pos": {"x": 0.0, "y": 0.0}
             },
             {
                 "name": "Laurence Richardson",
-                "role": "Secretary"
+                "pronouns": "he/him",
+                "role": "Secretary",
+                "photo": "img/execs/laurence-richardson.jpeg"
             },
             {
                 "name": "Mackenzie Parker",
-                "role": "Treasurer"
+                "pronouns": "they/them",
+                "role": "Treasurer",
+                "photo": "img/execs/mackenzie-parker.jpeg"
             },
             {
                 "name": "Ben Foster",
-                "role": "Education Officer"
+                "pronouns": "he/they",
+                "role": "Education Officer",
+                "photo": "img/execs/ben-foster.jpeg"
             },
             {
                 "name": "William Morris",
-                "role": "Events Officer"
+                "pronouns": "he/him",
+                "role": "Events Officer",
+                "photo": "img/execs/william-morris-placeholder.png"
             },
             {
                 "name": "Alice Baxter",
-                "role": "Publicity Officer"
+                "pronouns": "she/they",
+                "role": "Publicity Officer",
+                "photo": "img/execs/alice-baxter.jpeg"
             },
             {
                 "name": "Dylan Beard",
-                "role": "Technical Officer"
+                "pronouns": "he/him",
+                "role": "Technical Officer",
+                "photo": ""
             },
             {
                 "name": "Nathan Li",
-                "role": "Wellbeing Officer"
+                "pronouns": "he/him",
+                "role": "Wellbeing Officer",
+                "photo": "img/execs/nathan-li.jpeg"
             },
             {
                 "name": "Jason Martlew",
-                "role": "Security Officer"
+                "pronouns": "he/they",
+                "role": "Security Officer",
+                "photo": "img/execs/jason-martlew.jpeg"
             },
             {
                 "name": "Sakina Khan",
-                "role": "Audio Visual Officer"
+                "pronouns": "she/her",
+                "role": "Audio Visual Officer",
+                "photo": "img/execs/sakina-khan.jpeg"
             }
         ]
     },
@@ -49,15 +70,136 @@
         "execs": [
             {
                 "name": "Callen Ward",
-                "role": "President"
+                "role": "President",
+                "photo": ""
             },
             {
                 "name": "Jason Martlew",
-                "role": "Educational Officer"
+                "role": "Educational Officer",
+                "photo": "img/execs/jason-martlew.jpeg"
             },
             {
                 "name": "Max Hearnden",
+                "role": "Technical Officer",
+                "photo": ""
+            }
+        ]
+    },
+    {
+        "year": "2024",
+        "execs": [
+            {
+                "name": "Andre Mariucci",
+                "role": "President"
+            },
+            {
+                "name": "Daniel Nicholson",
+                "role": "Vice President"
+            },
+            {
+                "name": "Sean Phimsiri",
+                "role": "Secretary"
+            },
+            {
+                "name": "Aditya Tyagi",
+                "role": "Treasurer"
+            },
+            {
+                "name": "Max Hearnden",
+                "role": "Education Officer"
+            },
+            {
+                "name": "Tom Lejczak",
+                "role": "Events Officer"
+            },
+            {
+                "name": "Polina Markova",
+                "role": "Publicity Officer"
+            },
+            {
+                "name": "Isaac Richardson",
                 "role": "Technical Officer"
+            },
+            {
+                "name": "Emma Brown",
+                "role": "Wellbeing Officer"
+            },
+            {
+                "name": "Cedric Borgers",
+                "role": "Security Officer"
+            },
+            {
+                "name": "Harry Parkinson",
+                "role": "Careers Officer"
+            }
+        ]
+    },
+    {
+        "year": "2023",
+        "execs": [
+            {
+                "name": "",
+                "role": "President"
+            }
+        ]
+    },
+    {
+        "year": "2022",
+        "execs": [
+            {
+                "name": "",
+                "role": "President"
+            }
+        ]
+    },
+    {
+        "year": "2021",
+        "execs": [
+            {
+                "name": "",
+                "role": "President"
+            }
+        ]
+    },
+    {
+        "year": "2020",
+        "execs": [
+            {
+                "name": "",
+                "role": "President"
+            }
+        ]
+    },
+    {
+        "year": "2016",
+        "execs": [
+            {
+                "name": "Alexander Jung",
+                "role": "President"
+            },
+            {
+                "name": "Nathan Rutherford",
+                "role": "Vice-President"
+            },
+            {
+                "name": "Ben Goldsworthy",
+                "role": "Secretary"
+            },
+            {
+                "name": "Josh Mills",
+                "role": "Treasurer"
+            },
+            {
+                "name": "Mustafa Mohammed",
+                "role": "Development Officer"
+            },
+            {
+                "name": "Joseph Richardson",
+                "role": "Development Officer"
+            },
+            {
+                "name": "Leandros Gregoriou",
+                "role": "Welfare Officer"
             }
         ]
     }

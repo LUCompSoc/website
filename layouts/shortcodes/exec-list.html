@@ -1,6 +1,6 @@
 {{ range hugo.Data.execs }}
     {{ printf "## %s" .year | markdownify }}
-    <span class="w-2/1 h-auto flex flex-row flex-wrap gap-5">
+    <span class="w-full h-auto flex flex-row flex-wrap gap-5">
         {{ range .execs }}
             {{ template "exec-card" . }}
         {{ end }}
@@ -8,8 +8,24 @@
 {{ end }}
 
 {{ define "exec-card"}}
-    <div class="aspect-square size-50 border border-4 border-neutral-600 dark:border-neutral-400 rounded-2xl p-2">
-        <h4>{{ .name }}</h4>
-        <p>{{ .role }}</p>
+    {{ $resource := resources.Get (.photo)}}
+    <div class="w-50 h-auto border border-4 border-neutral-600 dark:border-neutral-400 rounded-3xl p-2">
+        <h4 class="no-margin">{{ .name }}</h4>
+        <p class="no-margin">{{ .role }}</p>
+        {{ if .pronouns }}
+            <i class="no-margin">({{ .pronouns }})</i>
+        {{ else if eq .pronouns "" }}
+            <p class="no-margin">---</p>
+        {{ end }}
+        <div class="h-5"></div>
+        {{ if $resource }}
+            <img src="{{ $resource.RelPermalink }}" class="nozoom no-margin size-fit rounded-2xl object-cover aspect-square" />
+        {{ else }}
+            {{ $placeholderDark := resources.Get ("img/user-placeholder-dark.jpg") }}
+            {{ $placeholderLight := resources.Get ("img/user-placeholder-light.jpg") }}
+            <!-- The following is not great, can be improved by editting tailwind.config.js -->
+            <img src="{{ $placeholderDark.RelPermalink }}" class="nozoom no-margin size-fit rounded-2xl hidden dark:block">
+            <img src="{{ $placeholderLight.RelPermalink }}" class="nozoom no-margin size-fit rounded-2xl block dark:hidden">
+        {{ end }}
     </div>
 {{ end }}
