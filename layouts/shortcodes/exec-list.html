@@ -11,7 +11,8 @@
 
 {{ define "exec-card"}}
     {{ $resource := resources.Get (.photo)}}
-    <div class="w-50 h-auto border border-4 border-neutral-600 dark:border-neutral-400 rounded-3xl p-2">
+    <div class="transition-transform hover:scale-105
+                w-50 h-auto border border-4 border-neutral-600 dark:border-neutral-400 rounded-3xl p-2">
         <h4 class="no-margin">{{ .name }}</h4>
         <p class="no-margin">{{ .role }}</p>
         {{ if .pronouns }}
