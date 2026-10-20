@@ -8,7 +8,7 @@ In this session, we’ll give you an overview of the Chip-8 system and guide you
 
 This will give you a grasp of the basics of emulator design and development, alongside looking in depth at decoding and executing CPU instructions using binary operations to make optimised and efficient code.
 
-Once you complete your emulator, we’ve got a whole host of game ROMs to test your code!---
+Once you complete your emulator, we’ve got a whole host of game ROMs to test your code!
 
 ---
 
