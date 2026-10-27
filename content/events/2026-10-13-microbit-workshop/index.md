@@ -2,6 +2,7 @@
 title: "Microbit Workshop"
 date: 2026-10-13
 description: "Educational workshop to introduce the micro:bit & how to program it with MakeCode."
+authors: ["Laurence Richardson", "Ben Foster"]
 ---
 
 This educational workshop focuses on introducing the [micro:bit](https://microbit.org/), a micro-controller built to teach kids how to code, developed by the BBC & Lancaster University!
