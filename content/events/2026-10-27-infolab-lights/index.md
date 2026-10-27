@@ -2,6 +2,7 @@
 title: "Programming the InfoLab lights"
 date: 2026-10-27
 description: "how to program the infolab lights"
+authors: ["Ben Foster"]
 ---
 
 In the session we will go over Programming the InfoLab Lights. We'll give you an overview of the lights and how they work, then go over using the playground and creating patterns. We can also guide you through making a pull request to get your pattern on the building.
