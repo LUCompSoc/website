@@ -16,5 +16,5 @@ You can also see the source code of all the patterns on the github.
 
 # Resources
 - [InfoLab Lights on GitHub](https://github.com/lancaster-university/infolab-lights) {{< icon "link" >}}
-- [The Playground] (https://infolab21-lights.lancs.ac.uk/playground) {{< icon "link" >}
+- [The Playground](https://infolab21-lights.lancs.ac.uk/playground) {{< icon "link" >}}
 - [Slides](./slides.pdf) {{< icon "download" >}}
