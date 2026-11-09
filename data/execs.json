@@ -10,6 +10,12 @@
                 "face_pos": {"x": 0.0, "y": 0.0}
             },
             {
+                "name": "Bella Jones",
+                "pronouns": "",
+                "role": "Vice-President",
+                "photo": "img/execs/bella-jones.jpg"
+            },
+            {
                 "name": "Laurence Richardson",
                 "pronouns": "he/him",
                 "role": "Secretary",
@@ -31,13 +37,25 @@
                 "name": "William Morris",
                 "pronouns": "he/him",
                 "role": "Events Officer",
-                "photo": "img/execs/william-morris-placeholder.png"
+                "photo": "img/execs/william-morris.png"
+            },
+            {
+                "name": "Layton Dickinson",
+                "pronouns": "",
+                "role": "Events Officer",
+                "photo": "img/execs/layton-dickinson.jpg"
             },
             {
                 "name": "Alice Baxter",
                 "pronouns": "she/they",
                 "role": "Publicity Officer",
                 "photo": "img/execs/alice-baxter.jpg"
+            },
+            {
+                "name": "William McGuigan",
+                "pronouns": "",
+                "role": "Publicity Officer",
+                "photo": "img/execs/william-mcguigan.jpg"
             },
             {
                 "name": "Dylan Beard",
@@ -62,6 +80,12 @@
                 "pronouns": "she/her",
                 "role": "Audio Visual Officer",
                 "photo": "img/execs/sakina-khan.jpg"
+            },
+            {
+                "name": "Nathan Cheng",
+                "pronouns": "",
+                "role": "Careers Officer",
+                "photo": "img/execs/nathan-cheng.jpg"
             }
         ]
     },
