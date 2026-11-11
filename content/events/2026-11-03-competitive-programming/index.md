@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Competitive Programming"
+title: "Intro to Competitive Programming"
 date: 2026-11-03
 description: "An introduction to competitive programming"
 ---

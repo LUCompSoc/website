@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Emulators with Chip-8"
+title: "Intro to Emulators with Chip-8"
 date: 2026-10-20
 description: "Educational workshop to where we introduce emulators and build one for the Chip-8 system"
 authors: ["Jason Martlew"]
