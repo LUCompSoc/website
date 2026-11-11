@@ -4,3 +4,5 @@ date: 2026-04-21
 description: "An introduction to Relational Databases, normalisation and SQL"
 authors: ["Benjamin Foster"]
 ---
+
+This is an event stub.

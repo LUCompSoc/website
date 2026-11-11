@@ -4,3 +4,5 @@ date: 2026-05-05
 description: "looking at RESTful APIs, their applications and implementations"
 authors: ["Benjamin Foster"]
 ---
+
+This is an event stub.
