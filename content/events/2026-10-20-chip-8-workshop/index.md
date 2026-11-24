@@ -14,5 +14,5 @@ Once you complete your emulator, we’ve got a whole host of game ROMs to test y
 ---
 
 # Resources
-- [GitHub](https://github.com/LUCompSoc/chip8-demo) {{< icon "link" >}}
 - [Slides](./slides.pdf) {{< icon "download" >}}
+- [GitHub](https://github.com/LUCompSoc/chip8-demo) {{< icon "github" >}}

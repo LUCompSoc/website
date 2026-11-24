@@ -12,5 +12,5 @@ We'll be looking at the concept of Relational Databases, their advantages and th
 
 # Resources
 - [Slides](./slides.pdf) {{< icon "download" >}}
-- [SQL Demo on GitHub](https://github.com/LUCompSoc/sql-demo-env) {{< icon "link" >}}
 - [Questions](./questions.pdf) {{< icon "download" >}}
+- [SQL Demo on GitHub](https://github.com/LUCompSoc/sql-demo-env) {{< icon "github" >}}

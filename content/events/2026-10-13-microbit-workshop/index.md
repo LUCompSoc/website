@@ -14,5 +14,5 @@ There will be multiple projects of varying difficulty which you can attempt. Hel
 ---
 
 # Resources
-- [GitHub](https://github.com/LUCompSoc/microbitExamples2026) {{< icon "link" >}}
 - [Slides](./slides.pdf) {{< icon "download" >}}
+- [GitHub](https://github.com/LUCompSoc/microbitExamples2026) {{< icon "github" >}}
