@@ -12,4 +12,4 @@ Along the way, we'll cover the basics of symmetric and asymmetric encryption, si
 ---
 
 # Resources
-- [Onion Routing Activity on GitHub](https://github.com/LUCompSoc/onion-routing-template) {{< icon "link" >}}
+- [Onion Routing Activity on GitHub](https://github.com/LUCompSoc/onion-routing-template) {{< icon "github" >}}

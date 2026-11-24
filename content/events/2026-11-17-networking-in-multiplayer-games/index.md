@@ -13,5 +13,5 @@ We'll also have an activity extending a simple game to add multiplayer functiona
 
 # Resources
 - [Slides](./slides.pdf) {{< icon "download" >}}
-- [Block Game Demo on GitHub](https://github.com/LUCompSoc/block-game-demo) {{< icon "link" >}}
-- [Task with Documentation](./task.pdf) {{< icon "download" >}}
+- [Task + Docs](./task.pdf) {{< icon "download" >}}
+- [Block Game Demo on GitHub](https://github.com/LUCompSoc/block-game-demo) {{< icon "github" >}}

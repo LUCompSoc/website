@@ -15,4 +15,4 @@ Competitive programming is great for improving your programming skills and probl
 # Resources
 - [Slides](./slides.pdf) {{< icon "download" >}}
 - [Leetcode: Problem 204](https://leetcode.com/problems/count-primes/description/) {{< icon "link" >}}
-- [Lancaster University Computing, Informatics and Data Society (LUCIDS)](https://discord.gg/8QnZx7a92) {{< icon "link" >}}
+- [Lancaster University Computing, Informatics and Data Society (LUCIDS)](https://discord.gg/8QnZx7a92) {{< icon "discord" >}}
